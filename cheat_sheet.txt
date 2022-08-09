@@ -1,0 +1,27 @@
+Terminal shortcuts
+
+
+Clear - clear terminal 
+Man ls - gives manual 
+pwd - where in the file directory are you
+cd - home directory 
+cd Documents - you’re into the documents folder now
+ls - list out all the files in the folder
+cd .. goes back a branch 
+mkdir - make new directory
+touch - makes new file
+.. goes up a level
+mv - rename file/ move to new directory
+cp - copy
+rm -r - remove directory
+rm - remove file
+git init - initialise a git repo
+git status - tells us what’s the current changes
+git add - adds new file to git repo 
+git commit -m “” - tells you what you did
+git add . - add everything to repo to current directory 
+git add .. - add ev to parent directory
+q to exit and go back to terminal 
+git log - see all commits
+git revert 
+git push origin main
